@@ -1,4 +1,4 @@
-window.promises = [];
+//window.promises = [];
 
 // Function to generate a random delay between 1 and 5 seconds (in milliseconds)
 function getRandomDelay() {
